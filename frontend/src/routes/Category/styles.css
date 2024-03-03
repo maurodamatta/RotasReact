@@ -1,0 +1,19 @@
+.card-category-menu {
+  display: flex;
+  background-color: var(--bg-secondy-section);
+  padding: 20px;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.menu-category {
+  color: var(--text-secondy-section);
+  font-weight: 400;
+  font-size: 1rem;
+  margin-right: 20px;
+
+}
+
+.active-category {
+  font-weight: 700;
+}

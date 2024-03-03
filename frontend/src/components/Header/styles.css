@@ -1,0 +1,24 @@
+header {
+  background-color: var(--bg-primary-menu);
+}
+
+.header-content-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+}
+
+.items-menu {
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--text-primary-menu);
+}
+
+.menu-active {
+  font-weight: 700;
+}
